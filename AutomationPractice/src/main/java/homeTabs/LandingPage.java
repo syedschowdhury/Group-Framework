@@ -8,7 +8,7 @@ public class LandingPage extends CommonAPI {
 
     @Test
     public void landingPage(){
-        driver.findElement(By.cssSelector("#block_top_menu > ul > li.sfHoverForce > a")).click();
+        driver.findElement(By.cssSelector("#block_top_menu > ul > li:nth-child(1) > a")).click();
 
     }
 

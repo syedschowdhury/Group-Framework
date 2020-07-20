@@ -12,6 +12,8 @@
         <module>Generic</module>
         <module>Amazon</module>
         <module>AutomationPractice</module>
+        <module>ebay</module>
+        <module>BestBuy</module>
     </modules>
 
     <dependencyManagement>
