@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="386dd130-216f-4d2f-939a-14a90ba0c937" name="Default Changelist" comment="added Test">
-      <change afterPath="$PROJECT_DIR$/Google/src/main/java/GoogleTest/GoogleRunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/ebay/ebayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/ebay/ebayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunnerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunnerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/src/main/java/GoogleTest/GoogleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/src/test/resources/GoogleTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Google/src/test/resources/GoogleTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="386dd130-216f-4d2f-939a-14a90ba0c937" name="Default Changelist" comment="added Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +148,7 @@
       <workItem from="1595836291172" duration="1629000" />
       <workItem from="1595838002637" duration="1763000" />
       <workItem from="1595839824987" duration="1685000" />
-      <workItem from="1595842620225" duration="812000" />
+      <workItem from="1595842620225" duration="1408000" />
     </task>
     <servers />
   </component>
