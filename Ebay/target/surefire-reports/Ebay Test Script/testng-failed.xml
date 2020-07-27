@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Ebay Test Script]">
+  <parameter name="url" value="https://www.ebay.com/"/>
+  <test thread-count="5" verbose="0" name="Ebay(failed)">
+    <classes>
+      <class name="ebay.ebayTest">
+        <methods>
+          <include name="searchMakeUp"/>
+          <include name="searchShoes"/>
+          <include name="securityCamera"/>
+          <include name="searchDress"/>
+          <include name="searchGym"/>
+          <include name="searchCarpet"/>
+          <include name="searchMovies"/>
+          <include name="searchJewelry"/>
+          <include name="homeFurniture"/>
+          <include name="cleanUp"/>
+          <include name="searchShirt"/>
+          <include name="searchCookTop"/>
+          <include name="garden"/>
+          <include name="searchRefrigerator"/>
+          <include name="computerDesk"/>
+          <include name="searchKitchenOrganizer"/>
+          <include name="initilaize"/>
+          <include name="searchHotWheels"/>
+          <include name="searchKidsBooks"/>
+        </methods>
+      </class> <!-- ebay.ebayTest -->
+    </classes>
+  </test> <!-- Ebay(failed) -->
+</suite> <!-- Failed suite [Ebay Test Script] -->

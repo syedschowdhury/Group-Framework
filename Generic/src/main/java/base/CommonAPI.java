@@ -21,11 +21,10 @@ public class CommonAPI {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
         driver.manage().window().maximize();
-//        thanks
 
 
     }
-    @AfterMethod
+   @AfterMethod
     public  void cleanup(){
         driver.close();
     }

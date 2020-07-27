@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name ="Google Test Script" parallel="false">
+<suite name ="BestBuy Test Script" parallel="false">
 
     <!--    <parameter name="useCloudEnv" value="true"/>-->
     <!--    <parameter name="cloudEnvName" value="browserstack"/>-->
@@ -9,14 +9,14 @@
     <!--    <parameter name="os_version" value="Sierra"/>-->
     <!--    <parameter name="browserName" value="firefox"/>-->
     <!--    <parameter name="browserVersion" value="75.0"/>-->
-    <parameter name="url" value="https://www.google.com/"></parameter>
-    <!--    <parameter name="url" value="https://www.bestbuy.com/"></parameter>-->
+    <parameter name="url" value="https://www.bestbuy.com/site/brands/apple/pcmcat128500050005.c?id=pcmcat128500050005"></parameter>
+<!--    <parameter name="url" value="https://www.bestbuy.com/"></parameter>-->
 
-    <!--    https://www.bestbuy.com/-->
-    <test name = "Google">
+<!--    https://www.bestbuy.com/-->
+    <test name = "BestBuy testing">
 
         <classes>
-            <class name="GoogleTest.GoogleRunTest"/>
+            <class name="Test60.BestBuy60Test" />
         </classes>
 
     </test>

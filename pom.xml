@@ -14,6 +14,8 @@
         <module>AutomationPractice</module>
         <module>ebay</module>
         <module>BestBuy</module>
+        <module>Ebay</module>
+        <module>Google</module>
     </modules>
 
     <dependencyManagement>

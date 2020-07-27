@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Google Test Script" duration-ms="202991" started-at="2020-07-27T08:11:56Z" finished-at="2020-07-27T08:15:19Z">
+    <groups>
+    </groups>
+    <test name="Google" duration-ms="202991" started-at="2020-07-27T08:11:56Z" finished-at="2020-07-27T08:15:19Z">
+      <class name="GoogleTest.GoogleTest">
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="14903" started-at="2020-07-27T08:11:56Z" finished-at="2020-07-27T08:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test1" duration-ms="6327" started-at="2020-07-27T08:12:11Z" finished-at="2020-07-27T08:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4192" started-at="2020-07-27T08:12:18Z" finished-at="2020-07-27T08:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7800" started-at="2020-07-27T08:12:22Z" finished-at="2020-07-27T08:12:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test10()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test10" duration-ms="2751" started-at="2020-07-27T08:12:30Z" finished-at="2020-07-27T08:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4525" started-at="2020-07-27T08:12:32Z" finished-at="2020-07-27T08:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7554" started-at="2020-07-27T08:12:37Z" finished-at="2020-07-27T08:12:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test11" duration-ms="2799" started-at="2020-07-27T08:12:45Z" finished-at="2020-07-27T08:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4411" started-at="2020-07-27T08:12:47Z" finished-at="2020-07-27T08:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7913" started-at="2020-07-27T08:12:52Z" finished-at="2020-07-27T08:13:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test12" duration-ms="2586" started-at="2020-07-27T08:13:00Z" finished-at="2020-07-27T08:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4217" started-at="2020-07-27T08:13:02Z" finished-at="2020-07-27T08:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7556" started-at="2020-07-27T08:13:06Z" finished-at="2020-07-27T08:13:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test13()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test13" duration-ms="2725" started-at="2020-07-27T08:13:14Z" finished-at="2020-07-27T08:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="337" started-at="2020-07-27T08:13:17Z" finished-at="2020-07-27T08:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7383" started-at="2020-07-27T08:13:17Z" finished-at="2020-07-27T08:13:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test2" duration-ms="4084" started-at="2020-07-27T08:13:24Z" finished-at="2020-07-27T08:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4249" started-at="2020-07-27T08:13:29Z" finished-at="2020-07-27T08:13:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7529" started-at="2020-07-27T08:13:33Z" finished-at="2020-07-27T08:13:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test3" duration-ms="2658" started-at="2020-07-27T08:13:40Z" finished-at="2020-07-27T08:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4528" started-at="2020-07-27T08:13:43Z" finished-at="2020-07-27T08:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7408" started-at="2020-07-27T08:13:47Z" finished-at="2020-07-27T08:13:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test4" duration-ms="2891" started-at="2020-07-27T08:13:55Z" finished-at="2020-07-27T08:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4162" started-at="2020-07-27T08:13:58Z" finished-at="2020-07-27T08:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7379" started-at="2020-07-27T08:14:02Z" finished-at="2020-07-27T08:14:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test5" duration-ms="2285" started-at="2020-07-27T08:14:09Z" finished-at="2020-07-27T08:14:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4392" started-at="2020-07-27T08:14:12Z" finished-at="2020-07-27T08:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="8258" started-at="2020-07-27T08:14:16Z" finished-at="2020-07-27T08:14:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test6" duration-ms="2659" started-at="2020-07-27T08:14:24Z" finished-at="2020-07-27T08:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4313" started-at="2020-07-27T08:14:27Z" finished-at="2020-07-27T08:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="8178" started-at="2020-07-27T08:14:31Z" finished-at="2020-07-27T08:14:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test7" duration-ms="2789" started-at="2020-07-27T08:14:39Z" finished-at="2020-07-27T08:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4177" started-at="2020-07-27T08:14:42Z" finished-at="2020-07-27T08:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7630" started-at="2020-07-27T08:14:46Z" finished-at="2020-07-27T08:14:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test8" duration-ms="5275" started-at="2020-07-27T08:14:54Z" finished-at="2020-07-27T08:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4339" started-at="2020-07-27T08:14:59Z" finished-at="2020-07-27T08:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="initilaize(java.lang.String)[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="initilaize" is-config="true" duration-ms="7489" started-at="2020-07-27T08:15:04Z" finished-at="2020-07-27T08:15:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaize -->
+        <test-method status="PASS" signature="test9()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="test9" duration-ms="4128" started-at="2020-07-27T08:15:11Z" finished-at="2020-07-27T08:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:GoogleTest.GoogleTest@6be46e8f]" name="cleanUp" is-config="true" duration-ms="4130" started-at="2020-07-27T08:15:15Z" finished-at="2020-07-27T08:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- GoogleTest.GoogleTest -->
+    </test> <!-- Google -->
+  </suite> <!-- Google Test Script -->
+</testng-results>

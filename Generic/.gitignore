@@ -1,7 +1,7 @@
 .project
 .settings
 /target
-.idea/*
+../.idea/vcs.xml
 /.classpath
 *.iml
 */**/*.iml
