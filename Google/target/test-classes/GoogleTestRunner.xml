@@ -16,7 +16,7 @@
     <test name = "Google">
 
         <classes>
-            <class name="GoogleTest.GoogleTest"/>
+            <class name="GoogleTest.GoogleRunTest"/>
         </classes>
 
     </test>

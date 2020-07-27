@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="386dd130-216f-4d2f-939a-14a90ba0c937" name="Default Changelist" comment="added Test" />
+    <list default="true" id="386dd130-216f-4d2f-939a-14a90ba0c937" name="Default Changelist" comment="added Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/target/Google-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Google/target/Google-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +44,17 @@
       <recent name="C:\Users\poppy\IdeaProjects\Group-Framework\Ebay\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ebayTest.searchDress">
+  <component name="RunManager" selected="TestNG.C:/Users/poppy/IdeaProjects/Group-Framework/Google/src/test/resources/GoogleTestRunner.xml">
+    <configuration name="C:/Users/poppy/IdeaProjects/Group-Framework/Ebay/src/test/resources/EbayRunnerTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunnerTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/poppy/IdeaProjects/Group-Framework/Google/src/test/resources/GoogleTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Google" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Google/src/test/resources/GoogleTestRunner.xml" />
@@ -86,24 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleRunTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Google" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GoogleTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="GoogleTest" />
-      <option name="MAIN_CLASS_NAME" value="GoogleTest.GoogleRunTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ebayTest.searchDress" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
@@ -124,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/poppy/IdeaProjects/Group-Framework/Google/src/test/resources/GoogleTestRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/poppy/IdeaProjects/Group-Framework/Ebay/src/test/resources/EbayRunnerTest.xml" />
+        <item itemvalue="TestNG.GoogleRunTest" />
         <item itemvalue="TestNG.ebayTest.searchDress" />
         <item itemvalue="TestNG.GoogleRunTest.test13" />
-        <item itemvalue="TestNG.GoogleRunTest.test2" />
-        <item itemvalue="TestNG.GoogleRunTest" />
-        <item itemvalue="TestNG.C:/Users/poppy/IdeaProjects/Group-Framework/Google/src/test/resources/GoogleTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +145,7 @@
       <workItem from="1595838002637" duration="1763000" />
       <workItem from="1595839824987" duration="1685000" />
       <workItem from="1595842620225" duration="1408000" />
+      <workItem from="1595870757945" duration="618000" />
     </task>
     <servers />
   </component>
@@ -172,22 +169,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595842859428" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1595839137078">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1595871476834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595839137078" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1595839137078">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595871476834" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1595871476834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595839137078" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1595839137078">
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595871476834" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1595871476833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595839137078" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1595839137078">
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595871476833" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1595871476834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595839137078" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595871476834" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1595637072204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
