@@ -13,6 +13,7 @@
         <module>Amazon</module>
         <module>AutomationPractice</module>
         <module>BestBuy</module>
+        <module>Cigna</module>
     </modules>
 
     <dependencyManagement>
