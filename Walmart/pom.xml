@@ -28,7 +28,7 @@
                 <version>3.0.0-M3</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFiles>target/test-classes/AutomationPracticeTestRunner.xml</suiteXmlFiles>
+                        <suiteXmlFiles>target/test-classes/WalmartTestRunner.xml</suiteXmlFiles>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

@@ -117,7 +117,7 @@ public class BestBuy60Test extends CommonAPI {
 
     @Test
     public void test19() throws InterruptedException {
-        driver.findElement(By.id("gh-search-input")).sendKeys("vido games", Keys.ENTER);
+        driver.findElement(By.id("gh-search-input")).sendKeys("video games", Keys.ENTER);
         Thread.sleep(3000);
     }
 
