@@ -3,16 +3,16 @@
 
 <suite name ="BestBuy Test Script" parallel="false">
 
-    <!--    <parameter name="useCloudEnv" value="true"/>-->
-    <!--    <parameter name="cloudEnvName" value="browserstack"/>-->
-    <!--    <parameter name="os" value="OS X"/>-->
-    <!--    <parameter name="os_version" value="Sierra"/>-->
-    <!--    <parameter name="browserName" value="firefox"/>-->
-    <!--    <parameter name="browserVersion" value="75.0"/>-->
+    <parameter name="useCloudEnv" value="true"></parameter>
+    <parameter name="cloudEnvName" value="browserstack"></parameter>
+    <parameter name="os" value="Windows"></parameter>
+    <parameter name="os_version" value="10"></parameter>
+    <parameter name="browserName" value="Chrome"></parameter>
+    <parameter name="browserVersion" value="84.0"></parameter>
     <parameter name="url" value="https://www.walmart.com/"></parameter>
-    <!--    <parameter name="url" value="https://www.walmart.com/"></parameter>-->
 
-    <!--    https://www.walmart.com/-->
+
+
     <test name = "Walmart testing">
 
         <classes>

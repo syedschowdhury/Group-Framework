@@ -3,16 +3,16 @@
 
 <suite name ="BestBuy Test Script" parallel="false">
 
-    <!--    <parameter name="useCloudEnv" value="true"/>-->
-    <!--    <parameter name="cloudEnvName" value="browserstack"/>-->
-    <!--    <parameter name="os" value="OS X"/>-->
-    <!--    <parameter name="os_version" value="Sierra"/>-->
-    <!--    <parameter name="browserName" value="firefox"/>-->
-    <!--    <parameter name="browserVersion" value="75.0"/>-->
-    <parameter name="url" value="https://www.bestbuy.com/site/brands/apple/pcmcat128500050005.c?id=pcmcat128500050005"></parameter>
-<!--    <parameter name="url" value="https://www.bestbuy.com/"></parameter>-->
+    <parameter name="useCloudEnv" value="false"></parameter>
+    <parameter name="cloudEnvName" value="browserstack"></parameter>
+    <parameter name="os" value="Windows"></parameter>
+    <parameter name="os_version" value="10"></parameter>
+    <parameter name="browserName" value="Chrome"></parameter>
+    <parameter name="browserVersion" value="84.0"></parameter>
+    <parameter name="url" value="https://www.bestbuy.com"></parameter>
 
-<!--    https://www.bestbuy.com/-->
+
+
     <test name = "BestBuy testing">
 
         <classes>
